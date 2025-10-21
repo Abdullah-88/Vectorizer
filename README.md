@@ -1,5 +1,5 @@
 # Vectorizer
 
-Are Vector to Vector operations all we need ?
+Are Vector to Vector Operations All We Need ?
 
 Paper Coming Soon

@@ -9,7 +9,7 @@ class VectorDynamicTanh(nn.Module):
         super().__init__()
         
            
-        self.alpha = nn.Parameter(torch.rand(input_shape))
+        self.alpha = nn.Parameter(torch.randn(input_shape))
        
 
     def forward(self, x):
